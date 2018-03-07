@@ -1,0 +1,16 @@
+
+public class Main {
+
+	public static void main(String[] args) {
+		
+		int myFavouriteNumber = 9;
+		double myFavouriteNumberDouble = 12.35;
+		char myFavouriteLetter = 's';
+		short anotherNumber = 25;
+		long bigNumber = 32103129;
+		boolean iAmOldEnoughForDriving = false;
+		String a = "purjola s lukanka";
+		
+	}
+
+}
