@@ -1,0 +1,16 @@
+
+
+public class main {
+	public static void main(String[] args) {
+		int myAge = 20;
+		int age = 12;
+		if(age<10) {
+			System.out.println("Ти си дете");
+		}else if(age>10 && age<18) {
+			System.out.println("Ти си тиийнейджър");
+		}
+		else {
+			System.out.println("Ти си възрастен");
+		}
+	}
+}
