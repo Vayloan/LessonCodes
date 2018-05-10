@@ -1,0 +1,24 @@
+import java.util.Scanner;
+
+public class Main {
+
+	public static void main(String[] args) {
+		
+		Scanner sc = new Scanner(System.in);
+		
+		String myAnimals[] = new String[10];
+		
+		
+		
+		System.out.println(myAnimals[0]);
+		System.out.println(myAnimals[2]);
+		
+		for(int i=0; i<10; i++) {
+			myAnimals[i] = sc.next();
+		}
+		System.out.println(myAnimals[2]);
+		
+
+	}
+
+}
